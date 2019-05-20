@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/rank-finder/static/media/city-aerial-view.e3c5643c.jpg"
   },
   {
-    "revision": "791c4d6f982959e66480",
+    "revision": "3f340c2245deaa82ae0d",
     "url": "/rank-finder/static/css/main.7b8512b8.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/rank-finder/static/media/SOUTH-AFRICA-TAXIS.fd60ade8.jpg"
   },
   {
-    "revision": "791c4d6f982959e66480",
-    "url": "/rank-finder/static/js/main.4550289a.chunk.js"
+    "revision": "3f340c2245deaa82ae0d",
+    "url": "/rank-finder/static/js/main.d88b2d9d.chunk.js"
   },
   {
     "revision": "0cb0b9c589c0624c9c78dd3d83e946f6",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/rank-finder/static/css/2.f7569c5f.chunk.css"
   },
   {
-    "revision": "3f5f639e673c642d04781116634ee915",
+    "revision": "cc9fa0e5e83bdb3c9dcfd32d913fb558",
     "url": "/rank-finder/index.html"
   }
 ];
