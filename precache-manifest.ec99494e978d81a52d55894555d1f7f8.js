@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/rank-finder/static/media/Simple-Line-Icons.d2285965.ttf"
   },
   {
-    "revision": "dffae40289665a08628f",
-    "url": "/rank-finder/static/css/main.a8f9d2b7.chunk.css"
+    "revision": "4ac94b0ad6416fda7597",
+    "url": "/rank-finder/static/css/main.a7641bd6.chunk.css"
   },
   {
     "revision": "8ac850736ec8bb301a90",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/rank-finder/static/media/Simple-Line-Icons.0cb0b9c5.woff2"
   },
   {
-    "revision": "dffae40289665a08628f",
-    "url": "/rank-finder/static/js/main.db48f8f4.chunk.js"
+    "revision": "4ac94b0ad6416fda7597",
+    "url": "/rank-finder/static/js/main.397915f1.chunk.js"
   },
   {
     "revision": "65b3fef3f17d82d430f93f96c7324566",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/rank-finder/static/css/2.1ae7e860.chunk.css"
   },
   {
-    "revision": "9742aae7899f7b68445fe179a8a003a6",
+    "revision": "4322bfacb07514a454e40b969b3eb74d",
     "url": "/rank-finder/index.html"
   }
 ];
